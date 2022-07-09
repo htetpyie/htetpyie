@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Htet Pyie Phyoe Maung
-- 👀 I’m interested in web development, mobile development and cyber security.
-- 🌱 I’m currently learning Laravel, Japanese Language and English Language.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning to become a full stack developer.
 - 💞️ I’m looking to collaborate on web developing.
 - 📫
 
