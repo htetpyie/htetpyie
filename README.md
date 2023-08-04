@@ -1,6 +1,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htetpyie&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htetpyie&hide=&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htetpyie&hide=css&layout=compact&theme=github_dark)
 
 <!---
 htetpyie/htetpyie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
