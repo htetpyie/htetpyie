@@ -23,11 +23,11 @@ You can click the Preview link to take a look at your changes.
     <tr>
         <td>2</td>
         <td><img src="https://htetpyie-2048-game.netlify.app/2048.png" width=50 height=50></td>
-        <td width=500><a target="_blank" href="https://htetpyie-2048-game.netlify.app/">2048 Game [Javascript]</a></td>
+        <td width=500><a target="_blank" href="https://htetpyie-2048-game.netlify.app/">2048 Game [ Javascript ]</a></td>
     </tr>
    <tr>
         <td>1</td>
         <td><img src="http://hangfire-app.somee.com/img/hangfire.png" width=50 height=50></td>
-        <td><a target="_blank" href="http://hangfire-app.somee.com/">Hangfire App [Dotnet 7, Lite Db]</a></td>
+        <td><a target="_blank" href="http://hangfire-app.somee.com/">Hangfire App [ C# Dotnet 7, Lite Db ]</a></td>
     </tr>
 </table>
