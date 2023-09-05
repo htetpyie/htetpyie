@@ -20,6 +20,11 @@ You can click the Preview link to take a look at your changes.
     <tr>
         <td colspan="3"  align="center">P R O J E C T S </td>
     </tr>
+     <tr>
+        <td>3</td>
+        <td><img src="https://htetpyie-2048-game-blazor-webasm.netlify.app/img/2048.png" width=50 height=50></td>
+        <td width=500><a target="_blank" href="https://htetpyie-2048-game-blazor-webasm.netlify.app">2048 Game [Blazor WebAssembly]</a></td>
+    </tr>
     <tr>
         <td>2</td>
         <td><img src="https://htetpyie-2048-game.netlify.app/2048.png" width=50 height=50></td>
