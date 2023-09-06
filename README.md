@@ -1,5 +1,11 @@
+
+
 <p  align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=46F71F&center=true&vCenter=true&width=525&lines=Hello!+Welcome+to+my+profile.+I+am+htetpyie." alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+      <img src="https://komarev.com/ghpvc/?username=htetpyie&style=flat-square&color=brightgreen">
 </p>
 
 <p align="center">
@@ -14,6 +20,7 @@
 htetpyie/htetpyie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 
 
 <table align="center">
@@ -36,3 +43,5 @@ You can click the Preview link to take a look at your changes.
         <td><a target="_blank" href="http://hangfire-app.somee.com/">Hangfire App [C# Dotnet 7, Lite Db]</a></td>
     </tr>
 </table>
+    
+ 
