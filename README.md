@@ -7,11 +7,12 @@
 <p align="center">
       <img src="https://komarev.com/ghpvc/?username=htetpyie&style=flat-square&color=brightgreen">
 </p>
-
+<!--
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=htetpyie&show_icons=true&theme=blue-green"></img> &nbsp; &nbsp; 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htetpyie&hide=css,html&layout=compact&theme=blue-green"></img>
 </p>
+--->
 
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htetpyie&hide=css,html&layout=compact&theme=github_dark)
