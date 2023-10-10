@@ -28,6 +28,11 @@ You can click the Preview link to take a look at your changes.
     <tr>
         <td colspan="3"  align="center">P R O J E C T S </td>
     </tr>
+       <tr>
+        <td>4</td>
+        <td><img src="https://github.com/htetpyie/blazor-web-asm-missing-historical-record/blob/master/BlazorWebAsm.MissingHistoricalRecord/wwwroot/img/books.png" width=50 height=50></td>
+        <td width=500><a target="_blank" href="https://htetpyie-blazor-web-asm-mhr.netlify.app/">Missing Historical Record [Blazor WebAssembly]</a></td>
+    </tr>
      <tr>
         <td>3</td>
         <td><img src="https://htetpyie-2048-game-blazor-webasm.netlify.app/img/2048.png" width=50 height=50></td>
