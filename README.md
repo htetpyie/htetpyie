@@ -4,9 +4,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=46F71F&center=true&vCenter=true&width=525&lines=Hello!+Welcome+to+my+profile.+I+am+htetpyie." alt="Typing SVG" /></a>
 </p>
 
+<!--
 <p align="center">
       <img src="https://komarev.com/ghpvc/?username=htetpyie&style=flat-square&color=brightgreen">
 </p>
+!-->
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=htetpyie&show_icons=true&theme=blue-green"></img> &nbsp; &nbsp; 
