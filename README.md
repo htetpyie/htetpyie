@@ -51,9 +51,10 @@ You can click the Preview link to take a look at your changes.
     </tr>
 </table>
 
-
+<!--
 <br>
 <p align="center">
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@htetpyie/a4ac9999-86ee-4001-ace4-11786c7b06b3.png" /></a>
 </p>
+--!>
  
