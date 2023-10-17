@@ -25,7 +25,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
 <table align="center">
     <tr>
         <td colspan="3"  align="center">P R O J E C T S </td>
@@ -51,5 +50,10 @@ You can click the Preview link to take a look at your changes.
         <td><a target="_blank" href="http://hangfire-app.somee.com/">Hangfire App [C# Dotnet 7, Lite Db]</a></td>
     </tr>
 </table>
-    
+
+
+<br>
+<p align="center">
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@htetpyie/a4ac9999-86ee-4001-ace4-11786c7b06b3.png" /></a>
+</p>
  
