@@ -1,5 +1,3 @@
-
-
 <p  align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=46F71F&center=true&vCenter=true&width=525&lines=Hello!+Welcome+to+my+profile.+I+am+htetpyie." alt="Typing SVG" /></a>
 </p>
@@ -46,8 +44,8 @@ You can click the Preview link to take a look at your changes.
     </tr>
    <tr>
         <td>1</td>
-        <td><img src="http://hangfire-app.somee.com/img/hangfire.png" width=50 height=50></td>
-        <td><a target="_blank" href="http://hangfire-app.somee.com/">Hangfire App [C# Dotnet 7, Lite Db]</a></td>
+        <td><img src="https://github.com/user-attachments/assets/235a182d-729c-41a7-b556-ede0b400bbd9" width=50 height=50></td>
+        <td><a target="_blank" href="https://github.com/htetpyie/Hangfire-with-asp-dot-net-core.git">Hangfire App [C# Dotnet 7, Lite Db]</a></td>
     </tr>
 </table>
 
