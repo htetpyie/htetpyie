@@ -27,6 +27,11 @@ You can click the Preview link to take a look at your changes.
     <tr>
         <td colspan="3"  align="center">P R O J E C T S </td>
     </tr>
+      <tr>
+        <td>5</td>
+        <td><img src="https://github.com/htetpyie/QRGenerator-Blazor-WebAssembly/blob/master/pj-img.png" width=50 height=50></td>
+        <td width=500><a target="_blank" href="https://github.com/htetpyie/QRGenerator-Blazor-WebAssembly">QR Generator [Blazor WebAssembly]</a></td>
+    </tr>
        <tr>
         <td>4</td>
         <td><img src="https://github.com/htetpyie/blazor-web-asm-missing-historical-record/blob/master/BlazorWebAsm.MissingHistoricalRecord/wwwroot/img/books.png" width=50 height=50></td>
